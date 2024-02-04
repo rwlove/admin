@@ -1,0 +1,12 @@
+---
+labels:
+  - name: area/ci
+    color: 0e8a16
+    description: Issue relates to CI
+  - name: area/kubernetes
+    color: 0e8a16
+    description: Issue relates to Kubernetes
+
+  - name: cluster/main
+    color: ffc300
+    description: Issue relates to the "main" cluster
